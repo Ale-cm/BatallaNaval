@@ -19,7 +19,7 @@ public class BatallaNaval {
 //        NuevoMetodo.cartelito("El barco fue hundido");
         
 // Instancia de la primer pantalla del juego
-        NuevoJuego NN = new NuevoJuego();
+        inicio NN = new inicio();
         NN.setVisible(true);
         
     }
